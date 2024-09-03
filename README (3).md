@@ -1,8 +1,5 @@
 # Twitter Sentiment Analysis with Deep Learning using BERT and Hugging Face 
 
-## Blog
-
-[Medium Blog](https://baotramduong.medium.com/twitter-sentiment-analysis-with-deep-learning-using-bert-and-hugging-face-830005bcdbbf)
 
 ## Introduction
 
